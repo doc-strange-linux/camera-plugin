@@ -28,7 +28,7 @@
     "homebridge-plugin"
   ],
   "dependencies": {
-    "ip": "^1.1.8"
+    "ip": "^2.0.1"
   },
   "devDependencies": {
     "@types/ip": "^1.1.0",
